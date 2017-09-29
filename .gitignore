@@ -1,4 +1,12 @@
+_site/*
+_theme_packages/*
 
-*.html
+Thumbs.db
+.DS_Store
 
-*.html
+!.gitkeep
+
+.rbenv-version
+.rvmrc
+
+*.lock
