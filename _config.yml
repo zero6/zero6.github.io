@@ -4,9 +4,9 @@
 # ---------------------------------------------------------------
 
 # Site
-title: Zero
-subtitle:
-description:给灵魂找一个安身立命之所
+title: Zero Create
+subtitle: Zero Create
+description: 灵魂安身之所
 author: James Wong
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
@@ -151,8 +151,8 @@ menu_icons:
 
 # Schemes
 #scheme: Muse
-#scheme: Mist
-scheme: Pisces
+scheme: Mist
+#scheme: Pisces
 
 
 # ---------------------------------------------------------------
