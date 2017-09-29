@@ -23,6 +23,10 @@ $blue-bright  : #87daff;
 $blue         : #0684bd;
 $blue-deep    : #262a30;
 $orange       : #fc6423;
+$green-deep   : #558B2F;
+$green-dim    : #7CB342;
+$green-light  : #9CCC65;
+
 
 
 
@@ -36,8 +40,8 @@ $text-color                   : $black-light;
 // Global link color.
 $link-color                   : $black-light;
 $link-hover-color             : $black-deep;
-$link-decoration-color        : $grey-light;
-$link-decoration-hover-color  : $black-deep;
+$link-decoration-color        : $green-light; //$grey-light;
+$link-decoration-hover-color  : $green-deep; //$black-deep;
 
 // Global border color.
 $border-color                 : $grey-light;
@@ -91,7 +95,7 @@ $font-weight-bolder       : 700;
 
 
 // Font size
-$font-size-base           : 14px;
+$font-size-base           : 16px;
 $font-size-small          : $font-size-base - 2px;
 $font-size-smaller        : $font-size-base - 4px;
 $font-size-large          : $font-size-base + 2px;
@@ -100,7 +104,7 @@ $font-size-larger         : $font-size-base + 4px;
 
 // Headings font size
 $font-size-headings-step    : 2px;
-$font-size-headings-base    : 24px;
+$font-size-headings-base    : 26px;
 $font-size-headings-small   : $font-size-headings-base - $font-size-headings-step;
 $font-size-headings-smaller : $font-size-headings-small - $font-size-headings-step;
 $font-size-headings-large   : $font-size-headings-base + $font-size-headings-step;
