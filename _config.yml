@@ -4,10 +4,17 @@
 # ---------------------------------------------------------------
 
 # Site
+<<<<<<< HEAD
 title: 学习成长再生
 subtitle: 何胜军的博客
 description: 持续学习者
 author: 何胜军Ethan
+=======
+title: Zero Create
+subtitle:黄梓迅的博客
+description: 灵魂安身之所
+author: James Wong
+>>>>>>> 65b5451929360c136f4fe0569c9fb035a22d3eef
 # Support language: de, en, fr-FR, id, ja, ko, pt-BR, pt, ru, zh-Hans, zh-hk, zh-tw
 language: zh-Hans
 date_format: '%Y-%m-%d'
@@ -85,7 +92,11 @@ keywords: "Jekyll, NexT"
 # Leave rss as empty to use site's feed link.
 # Set rss to specific value if you have burned your feed already.
 rss: false
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> 65b5451929360c136f4fe0569c9fb035a22d3eef
 # Specify the date when the site was setup
 #since: 2015
 
@@ -103,14 +114,22 @@ copyright: true
 # See: https://support.google.com/webmasters/answer/139066
 # Tips: Before you open this tag, remember set up your URL in _config.yml ( ex. url: http://yourdomain.com )
 canonical: false
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> 65b5451929360c136f4fe0569c9fb035a22d3eef
 # Change headers hierarchy on site-subtitle (will be main site description) and on all post/pages titles for better SEO-optimization.
 seo: false
 
 # If true, will add site-subtitle to index page, added in jekyll config.
 # subtitle: Subtitle
 index_with_subtitle: true
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> 65b5451929360c136f4fe0569c9fb035a22d3eef
 # ---------------------------------------------------------------
 # Menu Settings
 # ---------------------------------------------------------------
@@ -215,11 +234,16 @@ font:
 # Value is the target link (E.g. GitHub: https://github.com/iissnan)
 social:
   #LinkLabel: Link
+<<<<<<< HEAD
   #twitter: http://twitter.com/ishengjun
   Github: https://github.com/bigv027
   微博: http://weibo.com/heshengjun
   豆瓣: https://www.douban.com/people/dasheng027/
   email: mailto:2815966@qq.com
+=======
+  Github: https://github.com/zero6
+
+>>>>>>> 65b5451929360c136f4fe0569c9fb035a22d3eef
 
 # Social Links Icons
 # Icon Mapping:
@@ -233,7 +257,10 @@ social_icons:
   GitHub: github
   Twitter: twitter
   微博: weibo
+<<<<<<< HEAD
   
+=======
+>>>>>>> 65b5451929360c136f4fe0569c9fb035a22d3eef
 
 
 # Sidebar Avatar
@@ -280,7 +307,11 @@ sidebar:
 
   # Back to top in sidebar
   b2t: true
+<<<<<<< HEAD
 
+=======
+ 
+>>>>>>> 65b5451929360c136f4fe0569c9fb035a22d3eef
   # Scroll percent label in b2t button
   scrollpercent: false
 
@@ -290,7 +321,11 @@ links_title: Links
 #links_layout: block
 links_layout: inline
 links:
+<<<<<<< HEAD
   阳志平的网志: http://www.yangzhiping.com/
+=======
+   阳志平的网志: http://www.yangzhiping.com/
+>>>>>>> 65b5451929360c136f4fe0569c9fb035a22d3eef
 
 
 # ---------------------------------------------------------------
